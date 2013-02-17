@@ -1,0 +1,3 @@
+[submodule "Snowflake.UI"]
+	path = Snowflake.UI
+	url = git://github.com/ron975/Snowflake.UI.git
